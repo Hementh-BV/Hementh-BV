@@ -5,7 +5,7 @@ I've been currently learning and working on:
 * python
 * machine learning
 * deep learning
-* flask
+* fastapi
 * django
 
 All the practicals related to these are being done. 
